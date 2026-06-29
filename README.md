@@ -170,16 +170,6 @@ AI-based analysis of pedestrian space encroachment using
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=kanudawalazeel&theme=algolia&no-frame=true&row=2&column=4)
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=kanudawalazeel&theme=github-compact)
