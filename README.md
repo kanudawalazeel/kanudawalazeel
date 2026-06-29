@@ -22,6 +22,8 @@
 
 ☁️ AWS Certified Cloud Practitioner (CLF-C02)
 
+☁️ Microsoft Azure Fundamentals (AZ-900)
+
 📚 Researching AI for Smart Transportation & Vision-based Analytics
 
 🚀 Currently building AI Agents, RAG Systems and End-to-End ML Applications
@@ -109,17 +111,7 @@ Learning:
 
 ---
 
-### 📚 Journal Recommendation System
-
-- Semantic Search
-- FAISS Vector Database
-- Sentence Transformers
-- OpenAlex Dataset
-- Research Paper Recommendation
-
----
-
-### 🚦 TrafficEye
+### 🚦 ObstacleVision
 
 AI-based analysis of pedestrian space encroachment using
 
@@ -153,8 +145,6 @@ AI-based analysis of pedestrian space encroachment using
 # 🏆 Achievements
 
 🏅 AWS Certified Cloud Practitioner
-
-🥈 NPTEL Silver Medal – Python for Data Science
 
 🏁 Finalist – Imageneer Project
 
@@ -226,15 +216,15 @@ AI-based analysis of pedestrian space encroachment using
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/zeel-kanudawala-3b81412b5/]">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:zeelkanudawala@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/kanudawalazeel">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
