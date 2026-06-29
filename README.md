@@ -170,12 +170,6 @@ AI-based analysis of pedestrian space encroachment using
 
 ---
 
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=kanudawalazeel&theme=github-compact)
-
----
-
 # 🌱 Currently Learning
 
 - Agentic AI
