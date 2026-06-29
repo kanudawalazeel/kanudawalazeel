@@ -1,15 +1,251 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeelkanudawala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeelkanudawala@gmail.com) 
+# Hi 👋, I'm Zeel Kanudawala
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kanudawalazeel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kanudawalazeel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanudawalazeel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🚀 AI Engineer | Machine Learning Engineer | Computer Vision | NLP | Cloud Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Researcher;Building+AI+Agents+%26+RAG+Systems;AWS+Cloud+Practitioner;Always+Learning+Something+New!" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kanudawalazeel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 Final Year Computer Engineering Student
+
+🤖 Passionate about Artificial Intelligence, Machine Learning and Deep Learning
+
+🔬 Interested in Computer Vision, NLP, Large Language Models and Agentic AI
+
+☁️ AWS Certified Cloud Practitioner (CLF-C02)
+
+📚 Researching AI for Smart Transportation & Vision-based Analytics
+
+🚀 Currently building AI Agents, RAG Systems and End-to-End ML Applications
+
+💡 Always exploring new AI technologies and open-source tools
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,sql" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+**Libraries & Frameworks**
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Hugging Face
+- LangChain
+- LangGraph
+- LlamaIndex
+- FAISS
+- YOLOv8
+- U-Net
+- Vision Transformer (ViT)
+- CNN
+- OpenAI API
+- Groq API
+
+---
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+Learning:
+
+- Kubernetes
+- Terraform
+- CI/CD
+- Azure
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Company Intelligence Agent
+
+- Multi-agent AI research system
+- LangGraph + LangChain
+- Groq Llama 3.3 70B
+- Tavily Search API
+- Streamlit
+
+---
+
+### 📚 Journal Recommendation System
+
+- Semantic Search
+- FAISS Vector Database
+- Sentence Transformers
+- OpenAlex Dataset
+- Research Paper Recommendation
+
+---
+
+### 🚦 TrafficEye
+
+AI-based analysis of pedestrian space encroachment using
+
+- YOLOv8
+- Computer Vision
+- Spatial Analysis
+- Traffic Congestion Prediction
+
+---
+
+### 🌊 Flood Detection using IBM Prithvi EO
+
+- Satellite Image Segmentation
+- Vision Transformer
+- UperNet Decoder
+- PyTorch Lightning
+- Kaggle Competition
+
+---
+
+### 🤖 Agentic RAG Pipeline
+
+- LangGraph
+- LangChain
+- Retrieval-Augmented Generation
+- Multi-Agent Workflow
+- LLM Evaluation
+
+---
+
+# 🏆 Achievements
+
+🏅 AWS Certified Cloud Practitioner
+
+🥈 NPTEL Silver Medal – Python for Data Science
+
+🏁 Finalist – Imageneer Project
+
+🏁 Finalist – ImpactThon Hackathon
+
+📄 Conference Paper Author
+
+📖 Book Chapter Contributor
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+
+---
+
+# 🌱 Currently Learning
+
+- Agentic AI
+- Multi-Agent Systems
+- LLM Fine-Tuning
+- MLOps
+- Kubernetes
+- AWS AI Services
+- Azure AI
+- AI Evaluation Frameworks
+
+---
+
+# 📜 Research Interests
+
+- Artificial Intelligence
+- Computer Vision
+- Deep Learning
+- Natural Language Processing
+- Retrieval-Augmented Generation
+- Vision-Language Models
+- Edge AI
+- Explainable AI
+
+---
+
+# 🤝 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent systems that solve real-world problems through AI."*
+
+</div>
