@@ -22,7 +22,7 @@
 
 ☁️ AWS Certified Cloud Practitioner (CLF-C02)
 
-☁️ Microsoft Azure Fundamentals (AZ-900)
+☁️ Microsoft Certified Azure Fundamentals (AZ-900)
 
 📚 Researching AI for Smart Transportation & Vision-based Analytics
 
