@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Researcher;Building+AI+Agents+%26+RAG+Systems;AWS+Cloud+Practitioner;Always+Learning+Something+New!" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kanudawalazeel&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -160,11 +160,11 @@ AI-based analysis of pedestrian space encroachment using
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=kanudawalazeel&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kanudawalazeel&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanudawalazeel&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -174,7 +174,7 @@ AI-based analysis of pedestrian space encroachment using
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4)
+![](https://github-profile-trophy.vercel.app/?username=kanudawalazeel&theme=algolia&no-frame=true&row=2&column=4)
 
 </div>
 
@@ -182,7 +182,7 @@ AI-based analysis of pedestrian space encroachment using
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=kanudawalazeel&theme=github-compact)
 
 ---
 
