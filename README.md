@@ -200,7 +200,7 @@ AI-based analysis of pedestrian space encroachment using
 
 <p align="left">
 
-<a href="[https://linkedin.com/in/zeel-kanudawala-3b81412b5/]">
+<a href="https://linkedin.com/in/zeel-kanudawala-3b81412b5/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
